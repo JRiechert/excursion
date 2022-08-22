@@ -1,0 +1,56 @@
+/*
+:not(html,body,.preview_video) {
+    padding : 15px;
+}
+*/
+
+body {
+    position    : relative;
+    background  : black;
+    text-align  : center;
+    margin      : 0;
+    width       : 100%;
+    color       : white;
+    font-family : Verdana, serif;
+}
+
+.caption {
+    font-size : 50px;
+    padding   : 15px;
+}
+
+.link {
+    color     : aquamarine;
+    font-size : 16px;
+    padding   : 15px;
+}
+
+.preview_video {
+    padding : 15px;
+}
+
+.subcaption {
+    font-weight : 300;
+    font-size   : 42px;
+    padding     : 15px;
+}
+
+.text {
+    font-size : 21px;
+    color     : gray;
+    padding   : 15px;
+}
+
+.photo {
+    padding : 15px;
+}
+
+.icon {
+    padding : 15px;
+}
+
+.legal {
+    text-align: right;
+    color: gray;
+    padding : 15px;
+}
